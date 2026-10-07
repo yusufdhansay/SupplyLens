@@ -1,7 +1,7 @@
-numpy
-pandas
-psycopg[binary]
-matplotlib
-scikit-learn
-plotly
-streamlit
+numpy==2.5.3
+pandas==3.0.6
+psycopg[binary]==3.3.6
+matplotlib==3.11.2
+scikit-learn==1.9.1
+plotly==7.1.0
+streamlit==1.65.0
